@@ -1,0 +1,24 @@
+{
+    "bridge": {
+        "name": "Homebridge",
+        "username": "CC:22:3D:E3:CE:30",
+        "port": 51826,
+        "pin": "031-45-154"
+    },
+    
+    "description": "An example description.",
+
+    "platforms": [
+    ],
+
+    "accessories": [
+        {
+            "accessory": "Http",
+            "name": "Garage Door",
+            "on_url": "http://[hostname or IP here]/toggle",
+            "off_url": "http://[hostname or IP here]/toggle",
+            "http_method": "GET",
+	        "service": "Switch"
+        }
+    ]
+}
