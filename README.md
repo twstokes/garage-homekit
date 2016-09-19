@@ -31,7 +31,7 @@ A way to convert a standard home garage door opener to an IoT device that works 
 
 * [Adafruit Feather HUZZAH ESP8266](https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/overview)
 * Standard garage door opener
-* 2N222 transistor
+* 2N2222 transistor
 * 220 Ω resistor
 * [Adafruit Perma-Proto board](https://www.adafruit.com/products/1609) (not required, but nice)
 * iOS device
