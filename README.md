@@ -1,4 +1,5 @@
 # garage-homekit
+https://www.tannr.com/2016/09/18/wireless-garage-door-opener-v2
 
 ### Going from garage remote to iOS HomeKit
 
