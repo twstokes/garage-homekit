@@ -1,4 +1,7 @@
 # garage-homekit
+
+![Feather connected to remote module](https://www.tannr.com/wp-content/uploads/2016/09/IMG_9676-1.jpg)
+
 https://www.tannr.com/2016/09/18/wireless-garage-door-opener-v2
 
 https://youtu.be/C3-Wd1SD7OY
