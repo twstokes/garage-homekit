@@ -22,13 +22,13 @@ A way to convert a standard home garage door opener to an IoT device that works 
 ### Gist:
 
 1. A standard garage door remote is programmed to work with the garage door
- * The battery is replaced with power from the Feather
- * The button functionality is replaced with a transistor, triggered by an output from the Feather
-2. The output is triggered by an HTTP call to the Feather over the wireless network
- * For convenience, the Feather's blue LED is lit when it's connected
- * Red LED is lit when something goes wrong
-3. Homebridge is running on a dedicated computer that's running Docker
- * Via the Http plugin for Homebridge, we can communicate through HomeKit to the Feather
+    * The battery is replaced with power from the Feather
+    * The button functionality is replaced with a transistor, triggered by an output from the Feather
+1. The output is triggered by an HTTP call to the Feather over the wireless network
+    * For convenience, the Feather's blue LED is lit when it's connected
+    * Red LED is lit when something goes wrong
+1. Homebridge is running on a dedicated computer that's running Docker
+    * Via the Http plugin for Homebridge, we can communicate through HomeKit to the Feather
 
 ### Parts:
 
